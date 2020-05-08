@@ -11,3 +11,6 @@ console.log(result);
 
 // [1, 3, 5, 7, 9]
 ```
+
+## License
+This package is licensed under MIT license.
